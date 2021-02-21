@@ -1,0 +1,10 @@
+body{
+  min-height: 100vh;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(60deg,#C04848,#480048);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
