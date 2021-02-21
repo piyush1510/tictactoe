@@ -19,3 +19,7 @@
   text-shadow: 0px 2.8px 2.2px rgba(0, 0, 0, 0.54);
   text-align: center;
 }
+#resestButton{
+background-color: crimson;
+color: white;
+}
